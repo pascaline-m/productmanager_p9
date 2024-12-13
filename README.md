@@ -1,9 +1,6 @@
 <h1 align="center">Préparation et présentation à des investisseurs</h1>
 En tant que Product Manager du projet Blockter, j'ai été chargée de préparer une présentation complète pour des investisseurs potentiels, en mettant l'accent sur la faisabilité et la viabilité du produit.<br><br>
 
-🖇️ [Présentation Canva](https://www.canva.com/design/DAGPqQKpySA/l04qH0uRlAdz9dyE_gyg9Q/view?utm_content=DAGPqQKpySA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-
 ## 🎯 Objectifs et défis
 
 1. Étudier en profondeur la faisabilité technique et financière du produit Blockter.
